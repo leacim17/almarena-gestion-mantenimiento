@@ -14,3 +14,7 @@ detectan un desperfecto en un departamento.
 - Personal de Mantenimiento
 - Sistema de gestión
 - Proveedor externo
+
+## Diagrama BPMN 2.0 
+
+![Diagrama BPMN de Almarena La Reserva](../diagramas/ALR - BPMN.png.png)

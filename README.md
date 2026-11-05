@@ -20,10 +20,8 @@ Integrantes
 
 - Micael Martin
 
-Documentación
+## Documentación del proyecto
 
-La documentación técnica del proyecto se encuentra organizada en las siguientes secciones:
-
-- Estructura organizacional.
-- Diccionario de datos.
-- Modelado de procesos de negocio (BPMN).
+- [Organigrama de Almarena La Reserva](documentacion/organigrama.md)
+- [Diccionario de datos](documentacion/diccionario-datos.md)
+- [Proceso BPMN de gestión de mantenimiento](documentacion/proceso-bpmn.md)
